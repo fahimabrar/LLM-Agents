@@ -8,6 +8,6 @@ This repo is dedicated to documenting my learning journey, sharing insights, and
 
 **Diagram**<br>
 
-<img src="https://raw.githubusercontent.com/fahimabrar/LLM-Agents/refs/heads/main/GDPR%20Complient%20Agent/Simple%20Flowchart%20Infographic%20Graph.png" alt="description" width="300" height="200">
+<img src="https://raw.githubusercontent.com/fahimabrar/LLM-Agents/refs/heads/main/GDPR%20Complient%20Agent/Simple%20Flowchart%20Infographic%20Graph.png" alt="description" width="600" height="400">
 
    

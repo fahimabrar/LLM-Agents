@@ -13,12 +13,12 @@ This repo is dedicated to documenting my learning journey, sharing insights, and
    
 ## 2. Due-Diligence-Agent
 What this app will do,
-It will search relevant webpages (using duckduckgo api) based on your query.
-Scrape the webpage and add relevant information to a vector database.
-You can select newly created knowledge to provide LLM to generate the response.
+- It will search relevant webpages (using duckduckgo api) based on your query.
+- Scrape the webpage and add relevant information to a vector database.
+- You can select newly created knowledge to provide LLM to generate the response.
 
 What is unique here,
-Traditional LLM has knowledge cutoff (limited by training data)
-This approach enhance knowledge based on real time data.
-This is locally hosted LLM (so no one gets your data)
+- Traditional LLM has knowledge cutoff (limited by training data)
+- This approach enhance knowledge based on real time data.
+- This is locally hosted LLM (so no one gets your data)
 You have more control about the knowledge source (e.g. selecting best knowledge source)
